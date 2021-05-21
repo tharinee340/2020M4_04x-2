@@ -17,6 +17,7 @@ body .container {
 }
 .card {
     margin: 10px;
+    
 }
 .card-title {
     color: black 80%;
@@ -46,8 +47,8 @@ body .container {
     color: white;
     border-color: slategray;
 }
-@media screen and(max-width:768){
-    .cata {
+@media screen and (max-width:768px){
+    div.card {
         border: none;
     }
 }
