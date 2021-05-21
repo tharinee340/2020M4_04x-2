@@ -46,3 +46,8 @@ body .container {
     color: white;
     border-color: slategray;
 }
+@media screen and(max-width:768){
+    .cata {
+        border: none;
+    }
+}
